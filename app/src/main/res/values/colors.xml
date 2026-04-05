@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rich_mahogany_dark">#250902</color>
+    <color name="rich_mahogany">#38040E</color>
+    <color name="black_cherry">#640D14</color>
+    <color name="dusty_rose">#AD777B</color>
+    <color name="soft_blush">#F5E0E2</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
